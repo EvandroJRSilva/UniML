@@ -1,0 +1,11 @@
+# Folders
+bin/
+include/
+lib/
+
+# Symbolic link
+lib64
+
+# Files
+.python-version
+*.cfg
