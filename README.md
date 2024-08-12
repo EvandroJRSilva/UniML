@@ -259,5 +259,3 @@ SENÃO
   * [7] FLORES, Marcio José das; BESS, Alexandre Leal. Inteligência artificial aplicada a negócios. Curitiba, PR: Intersaberes, 2023. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 01 ago. 2024. <https://plataforma.bvirtual.com.br/Acervo/Publicacao/213906>
   * [8] KAUFMAN, Dora. Desmistificando a inteligência artificial. 1. ed. São Paulo: Autêntica, 2022. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 01 ago. 2024. <https://plataforma.bvirtual.com.br/Acervo/Publicacao/201714>
   * [9] SCHEIDEGGER, Jorge. Ah, se eu soubesse (inteligência artificial)...: uma viagem aos "cérebros eletrônicos". 1. ed. Nova Lima, MG: Falconi, 2021. E-book. Disponível em: https://plataforma.bvirtual.com.br. Acesso em: 01 ago. 2024. <https://plataforma.bvirtual.com.br/Acervo/Publicacao/213049>
-
-`python -m venv /home/evandro/Workspaces/Uninassau/MachineLearning`
