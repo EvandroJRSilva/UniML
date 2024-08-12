@@ -97,7 +97,7 @@ Turmas
 |---|---|---|---|---|
 | | | | 01 | 02 |
 | 05 | 06 | ![07Ago](https://placehold.co/25/limegreen/white?text=07) | 08 | ![09Ago](https://placehold.co/25/limegreen/white?text=09) |
-| 12 | 13 | ![14Ago](https://placehold.co/25/limegreen/white?text=14) | 15 | ![16Ago](https://placehold.co/25/limegreen/white?text=16) |
+| 12 | 13 | ![14Ago](https://placehold.co/25/limegreen/white?text=14) | 15 | ![16Ago](https://placehold.co/25/cornflowerblue/white?text=16) |
 | 19 | 20 | ![21Ago](https://placehold.co/25/limegreen/white?text=21) | 22 | ![23Ago](https://placehold.co/25/limegreen/white?text=23) |
 | 26 | 27 | ![28Ago](https://placehold.co/25/limegreen/white?text=28) | 29 | ![30Ago](https://placehold.co/25/limegreen/white?text=30) |
 
@@ -128,7 +128,7 @@ Turmas
 | | | | | ![01Nov](https://placehold.co/25/limegreen/white?text=01) |
 | 04 | 05 | ![06Nov](https://placehold.co/25/limegreen/white?text=06) | 07 | ![08Nov](https://placehold.co/25/limegreen/white?text=08) |
 | 11 | 12 | ![13Nov](https://placehold.co/25/limegreen/white?text=13) | 14 | ![15Nov](https://placehold.co/25/cornflowerblue/white?text=15) |
-| 18 | 19 | ![20Nov](https://placehold.co/25/limegreen/white?text=20) | 21 | ![22Nov](https://placehold.co/25/limegreen/white?text=22) |
+| 18 | 19 | ![20Nov](https://placehold.co/25/cornflowerblue/white?text=20) | 21 | ![22Nov](https://placehold.co/25/limegreen/white?text=22) |
 | 25 | 26 | ![27Nov](https://placehold.co/25/limegreen/white?text=27) | 28 | ![29Nov](https://placehold.co/25/limegreen/white?text=29) |
 
 **Dezembro**
