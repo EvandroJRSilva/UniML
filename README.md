@@ -83,7 +83,7 @@ Turmas
 
 ![ADS4N](https://img.shields.io/badge/Sexta-ADS4N-lightgrey) 18:30 - 21:10
 
-![ADS4M](https://img.shields.io/badge/Quarta-ADS4M-lightgrey) 08:20 - 11:00
+![ADS4M](https://img.shields.io/badge/Terça-ADS4M-lightgrey) 08:20 - 11:00
 
 *Legendas*
 
@@ -97,47 +97,47 @@ Turmas
 |---|---|---|---|---|
 | | | | 01 | 02 |
 | 05 | 06 | ![07Ago](https://placehold.co/25/limegreen/white?text=07) | 08 | ![09Ago](https://placehold.co/25/limegreen/white?text=09) |
-| 12 | 13 | ![14Ago](https://placehold.co/25/limegreen/white?text=14) | 15 | ![16Ago](https://placehold.co/25/cornflowerblue/white?text=16) |
-| 19 | 20 | ![21Ago](https://placehold.co/25/limegreen/white?text=21) | 22 | ![23Ago](https://placehold.co/25/limegreen/white?text=23) |
-| 26 | 27 | ![28Ago](https://placehold.co/25/limegreen/white?text=28) | 29 | ![30Ago](https://placehold.co/25/limegreen/white?text=30) |
+| 12 | ![13Ago](https://placehold.co/25/limegreen/white?text=13) | 14 | 15 | ![16Ago](https://placehold.co/25/cornflowerblue/white?text=16) |
+| 19 | ![20Ago](https://placehold.co/25/limegreen/white?text=20) | 21 | 22 | ![23Ago](https://placehold.co/25/limegreen/white?text=23) |
+| 26 | ![27Ago](https://placehold.co/25/limegreen/white?text=27) | 28 | 29 | ![30Ago](https://placehold.co/25/limegreen/white?text=30) |
 
 **Setembro**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| 02 | 03 | ![04Set](https://placehold.co/25/limegreen/white?text=04) | 05 | ![06Set](https://placehold.co/25/limegreen/white?text=06) |
-| 09 | 10 | ![11Set](https://placehold.co/25/limegreen/white?text=11) | 12 | ![13Set](https://placehold.co/25/limegreen/white?text=13) |
-| 16 | 17 | ![18Set](https://placehold.co/25/limegreen/white?text=18) | 19 | ![20Set](https://placehold.co/25/limegreen/white?text=20) |
-| 23 | 24 | ![25Set](https://placehold.co/25/limegreen/white?text=25) | 26 | ![27Set](https://placehold.co/25/limegreen/white?text=27) |
+| 02 | ![03Set](https://placehold.co/25/limegreen/white?text=03) | 04 | 05 | ![06Set](https://placehold.co/25/limegreen/white?text=06) |
+| 09 | ![10Set](https://placehold.co/25/limegreen/white?text=10) | 11 | 12 | ![13Set](https://placehold.co/25/limegreen/white?text=13) |
+| 16 | ![17Set](https://placehold.co/25/limegreen/white?text=17) | 18 | 19 | ![20Set](https://placehold.co/25/limegreen/white?text=20) |
+| 23 | ![24Set](https://placehold.co/25/limegreen/white?text=24) | 25 | 26 | ![27Set](https://placehold.co/25/limegreen/white?text=27) |
 | 30 | | | | |
 
 **Outubro**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| | 01 | ![02Out](https://placehold.co/25/limegreen/white?text=02) | 03 | ![04Out](https://placehold.co/25/firebrick/white?text=04) |
-| 07 | 08 | ![09Out](https://placehold.co/25/firebrick/white?text=09) | 10 | ![11Out](https://placehold.co/25/limegreen/white?text=11) |
-| 14 | 15 | ![16Out](https://placehold.co/25/limegreen/white?text=16) | 17 | ![18Out](https://placehold.co/25/limegreen/white?text=18) |
-| 21 | 22 | ![23Out](https://placehold.co/25/limegreen/white?text=23) | 24 | ![25Out](https://placehold.co/25/limegreen/white?text=25) |
-| 28 | 29 | ![30Out](https://placehold.co/25/limegreen/white?text=30) | 31 | |
+| | ![01Out](https://placehold.co/25/limegreen/white?text=01) | 02 | 03 | ![04Out](https://placehold.co/25/firebrick/white?text=04) |
+| 07 | ![08Out](https://placehold.co/25/firebrick/white?text=08) | 09 | 10 | ![11Out](https://placehold.co/25/limegreen/white?text=11) |
+| 14 | ![15Out](https://placehold.co/25/limegreen/white?text=15) | 16 | 17 | ![18Out](https://placehold.co/25/limegreen/white?text=18) |
+| 21 | ![22Out](https://placehold.co/25/limegreen/white?text=22) | 23 | 24 | ![25Out](https://placehold.co/25/limegreen/white?text=25) |
+| 28 | ![29Out](https://placehold.co/25/limegreen/white?text=30) | 30 | 31 | |
 
 **Novembro**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 | | | | | ![01Nov](https://placehold.co/25/limegreen/white?text=01) |
-| 04 | 05 | ![06Nov](https://placehold.co/25/limegreen/white?text=06) | 07 | ![08Nov](https://placehold.co/25/limegreen/white?text=08) |
-| 11 | 12 | ![13Nov](https://placehold.co/25/limegreen/white?text=13) | 14 | ![15Nov](https://placehold.co/25/cornflowerblue/white?text=15) |
-| 18 | 19 | ![20Nov](https://placehold.co/25/cornflowerblue/white?text=20) | 21 | ![22Nov](https://placehold.co/25/limegreen/white?text=22) |
-| 25 | 26 | ![27Nov](https://placehold.co/25/limegreen/white?text=27) | 28 | ![29Nov](https://placehold.co/25/limegreen/white?text=29) |
+| 04 | ![05Nov](https://placehold.co/25/limegreen/white?text=05) | 06 | 07 | ![08Nov](https://placehold.co/25/limegreen/white?text=08) |
+| 11 | ![12Nov](https://placehold.co/25/limegreen/white?text=12) | 13 | 14 | ![15Nov](https://placehold.co/25/cornflowerblue/white?text=15) |
+| 18 | ![19Nov](https://placehold.co/25/limegreen/white?text=19) | ![20Nov](https://placehold.co/25/cornflowerblue/white?text=20) | 21 | ![22Nov](https://placehold.co/25/limegreen/white?text=22) |
+| 25 | ![26Nov](https://placehold.co/25/limegreen/white?text=26) | 27 | 28 | ![29Nov](https://placehold.co/25/limegreen/white?text=29) |
 
 **Dezembro**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| 02 | 03 | ![04Dez](https://placehold.co/25/firebrick/white?text=04) | 05 | ![06Dez](https://placehold.co/25/firebrick/white?text=06) |
-| 09 | 10 | ![11Dez](https://placehold.co/25/limegreen/white?text=11) | 12 | ![13Dez](https://placehold.co/25/firebrick/white?text=13) |
-| 16 | 17 | ![18Dez](https://placehold.co/25/firebrick/white?text=18) | 19 | ![20Dez](https://placehold.co/25/firebrick/white?text=20) |
+| 02 | ![03Dez](https://placehold.co/25/firebrick/white?text=03) | 04 | 05 | ![06Dez](https://placehold.co/25/firebrick/white?text=06) |
+| 09 | ![10Dez](https://placehold.co/25/limegreen/white?text=10) | 11 | 12 | ![13Dez](https://placehold.co/25/firebrick/white?text=13) |
+| 16 | ![17Dez](https://placehold.co/25/firebrick/white?text=17) | 18 | 19 | ![20Dez](https://placehold.co/25/firebrick/white?text=20) |
 | 23 | 24 | ![25Dez](https://placehold.co/25/cornflowerblue/white?text=25) | 26 | ![27Dez](https://placehold.co/25/firebrick/white?text=27) |
 | 30 | 31 | | | |
 
