@@ -3,6 +3,12 @@ bin/
 include/
 lib/
 share/
+src/aula01/imagens/
+src/aula02/imagens/
+src/aula03/imagens/
+src/aula03/vídeos/
+src/aula04/imagens/
+src/aula04/vídeos/
 
 # Symbolic link
 lib64
@@ -10,3 +16,19 @@ lib64
 # Files
 .python-version
 *.cfg
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.tex
+*.toc
+*.vrb
+*.sty
+*.bib
+*.drawio
