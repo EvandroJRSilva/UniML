@@ -32,3 +32,4 @@ lib64
 *.sty
 *.bib
 *.drawio
+*.pkl
