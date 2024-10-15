@@ -9,6 +9,7 @@ src/aula03/imagens/
 src/aula03/vídeos/
 src/aula04/imagens/
 src/aula04/vídeos/
+src/aula06/latex/imagens
 
 # Symbolic link
 lib64
@@ -33,3 +34,4 @@ lib64
 *.bib
 *.drawio
 *.pkl
+src/aula06/aula06_deprecated.ipynb
