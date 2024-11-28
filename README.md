@@ -2,6 +2,11 @@
 
 Repositório da Disciplina *Machine Learning* da Uninassau - Teresina.
 
+<hr>
+<span style="font-size:48px;color:yellow">&#9888;</span><br>
+Infelizmente não consegui fazer um bom planejamento para esta disciplina. A expectativa é de que em algum momento no futuro eu consiga refazê-la em sua abordagem mais correta, ou seja, como uma disciplina introdutória de Aprendizado de Máquina.
+<hr>
+
 Sumário
 
 - [**Machine Learning**](#machine-learning)
@@ -147,59 +152,74 @@ Turmas
 
 * 01
   * Apresentação da Disciplina
-  * Introdução à Aprendizagem de Máquina
-  * O Cenário do Aprendizado de Máquina
-    * O que é Aprendizado de Máquina?
-    * Por que usar o Aprendizado de Máquina?
-    * Exemplos de Aplicações
+  * Introdução
+  * Aprendizado de Máquina
+    * Processo geral
+    * Aplicações
 * 02
-  * O Cenário do Aprendizado de Máquina
-    * Tipos de Sistemas do Aprendizado de Máquina
-      * Aprendizado Supervisionado/Não Supervisionado
-      * Aprendizado em batch e online
-      * Aprendizado baseado em instâncias versus aprendizado baseado em modelo
-    * Principais Desafios do Aprendizado de Máquina
-      * Quantidade insuficiente de dados de treinamento
-      * Dados de baixa qualidade
-      * Características irrelevantes
-      * Sobreajuste dos dados de treinamento
-      * Subajuste dos dados de treinamento
+  * Tipos de Sistemas do Aprendizado de Máquina
+    * Aprendizado Supervisionado
+    * Aprendizado Não Supervisionado
+    * Aprendizado Semissupervisionado
+    * Aprendizado por Reforço
+    * Aprendizado em Batch
+    * Aprendizado *online*
+    * Aprendizado baseado em instâncias
+    * Aprendizado baseado em modelo
 * 03
+  * Principais desafios do Aprendizado de Máquina
+    * Quantidade insuficiente de dados de treinamento
+    * Dados de treinamento não representativos
+    * Dados de baixa qualidade
+    * Características irrelevantes
+    * Sobreajuste dos dados de treinamento (*overfitting*)
+    * Subajuste dos dados de treinamento (*underfitting*)
   * Teste e Validação
+    * k-fold
+    * Bootstrap
+    * Treinamento, teste e validação
   * Algoritmos Meta-Heurísticos
-  * Métodos Paramétricos e Não Paramétricos
-  * Computação Natural
 * 04
-  * Projeto de Aprendizado de Máquina Ponta a Ponta
-  * Classificação
+  * Computação Natural
+    * Introdução
+    * Busca Informada e Local
+      * Busca Gulosa
+      * A*
+    * Inteligência de Enxame
+      * PSO
+      * ACO
+    * Computação Evolucionária
+      * Algoritmo Genético
 * 05
-  * Aula Prática
+  * Projeto de Aprendizado de Máquina Ponta a Ponta
+  * Parte prática: **várias aulas**!
 * 06
-  * Treinando Modelos
-    * Regressão Linear
-    * Regressão Logística
-  * Máquinas de Vetores de Suporte
-  * Árvores de Decisão
+  * Aprendizado Não Supervisionado: Agrupamento
+    * k-means
 * 07
-  * Aula Prática
+  * Aprendizado Supervisionado: Árvores de Decisão/Regressão
+    * ID3
 * 08
-  * Aula Prática
+  * Aprendizado Supervisionado: Redes Neurais Artificiais
+    * Perceptron
+    * Multilayer Perceprton (MLP)
+      * Backpropagation
 * 09
-  * Aprendizado Ensemble e Florestas Aleatórias
+  * Aprendizado Supervisionado: *Support Vector Machine*
+    * Introdução
+    * Hiperplano
+    * Magem máxima
+    * Vetores de suporte
+    * *Kernel trick*
 * 10
-  * Aula Prática
-* 11
-  * Redução de Dimensionalidade
-  * Clusterização
-* 12
-  * Aula Prática
-* 13
-  * Introdução às Redes Neurais Artificiais com a Biblioteca Keras
-* 14
-  * Modelos Customizados e Treinamento com a Biblioteca TensorFlow
-  * Carregando e Pré-processando dados com o TensorFlow
-* 15
-  * Aula Prática
+  * Comitês de Classificadores
+    * Introdução
+    * Seleção de Classificadores
+    * Fusão de Classificadores
+    * Modelos Clássicos
+      * Bagging
+      * AdaBoost
+      * RandomForest
 
 ### Avaliações
 
